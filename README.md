@@ -44,6 +44,5 @@ npx prisma migrate dev --preview-feature
 
 ## Generate Prisma Client
 
-```bash
+bash
 npx prisma generate
-```
